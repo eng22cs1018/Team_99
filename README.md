@@ -64,32 +64,32 @@ The following visualizations provide insights into the model architectures, trai
 
 
 - **Training Metrics**:
-  - ![Classification Loss]![loss echo](https://github.com/user-attachments/assets/deaaff9e-82f7-4fe6-b597-dfcc3e1e0054)
+  - **![Classification Loss]**![loss echo](https://github.com/user-attachments/assets/deaaff9e-82f7-4fe6-b597-dfcc3e1e0054)
 
-  - ![Classification Accuracy]![training echo](https://github.com/user-attachments/assets/b5298db1-ac6a-4659-84e8-11bb61764762)
+  - **![Classification Accuracy]**![training echo](https://github.com/user-attachments/assets/b5298db1-ac6a-4659-84e8-11bb61764762)
 
-  - ![Segmentation Loss]![segment loss](https://github.com/user-attachments/assets/62a64c5f-0571-460d-b2a6-33e4a86097a2)
+  - **![Segmentation Loss]**![segment loss](https://github.com/user-attachments/assets/62a64c5f-0571-460d-b2a6-33e4a86097a2)
 
-  - ![Segmentation Dice Score]![segment dice](https://github.com/user-attachments/assets/cd5a2846-b1be-484d-8c35-68bdbd45aa88)
+  - **![Segmentation Dice Score]**![segment dice](https://github.com/user-attachments/assets/cd5a2846-b1be-484d-8c35-68bdbd45aa88)
 
-  - ![Segmentation Training Progress]![segment train](https://github.com/user-attachments/assets/ad9e5e1b-74ba-4664-b539-9a250abb4b23)
+  - **![Segmentation Training Progress]**![segment train](https://github.com/user-attachments/assets/ad9e5e1b-74ba-4664-b539-9a250abb4b23)
 
 
 - **Results**:
-  - ![Classification Result]![Result](https://github.com/user-attachments/assets/7f6b1c5c-3041-4366-9018-161f5101f27d)
+  - **![Classification Result]**![Result](https://github.com/user-attachments/assets/7f6b1c5c-3041-4366-9018-161f5101f27d)
 
-  - ![Segmentation Output]![Segmentation](https://github.com/user-attachments/assets/3a007e59-46af-4e8a-8d7c-8a11f8e195cd)
+  - **![Segmentation Output]**![Segmentation](https://github.com/user-attachments/assets/3a007e59-46af-4e8a-8d7c-8a11f8e195cd)
 
 
 ## Interactive Notebooks
 
 Explore the project's code and results through the following interactive files:
 
-- [Echocardiographic_Abnormality.html](Echocardiographic_Abnormality.html): Detailed analysis and visualization of the classification module.
+- **[Echocardiographic_Abnormality.html]**(Echocardiographic_Abnormality.html): Detailed analysis and visualization of the classification module.
 
-- [Echocardiographic_Image_Segmentation.html](Echocardiographic_Image_Segmentation.html): Comprehensive overview of the segmentation process and results.
+- **[Echocardiographic_Image_Segmentation.html]**(Echocardiographic_Image_Segmentation.html): Comprehensive overview of the segmentation process and results.
 
-- [Echocardiographic_Image_Segmentation.ipynb](Echocardiographic_Image_Segmentation.ipynb): Jupyter Notebook containing the code for the segmentation model.
+- **[Echocardiographic_Image_Segmentation.ipynb]**(Echocardiographic_Image_Segmentation.ipynb): Jupyter Notebook containing the code for the segmentation model.
 
 ## Conclusion
 
