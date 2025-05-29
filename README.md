@@ -58,7 +58,8 @@ These results demonstrate the effectiveness of the integrated approach in accura
 The following visualizations provide insights into the model architectures, training processes, and results:
 
 - **Model Architectures**:
-  - ![VGGNet Architecture]([VGGNet%20Architecture.png](https://github.com/eng22cs1018/Team_99/blob/main/img/VGGNet%20Architecture.png))
+  - ![VGGNet Architecture]![VGGNet Architecture](https://github.com/user-attachments/assets/147ed695-3210-4c1d-b8e4-369dcc9748e0)
+
   - ![UNet Architecture](UNet%20Architecture.png)
 
 - **Training Metrics**:
